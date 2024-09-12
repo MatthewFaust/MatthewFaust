@@ -1,4 +1,7 @@
 ### MatthewFaust
+- I am a tech enthusiast and software developer with a passion for coding.
+- I specialize in Java and I am always exploring new challenges. 🚀💻
+- I am currently learning C++ and SQL
 
 <!--
 **MatthewFaust/MatthewFaust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
