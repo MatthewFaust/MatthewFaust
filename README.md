@@ -1,4 +1,6 @@
-### MatthewFaust
+### 
+My name is Matthew Faust and I am a Northeastern University Student.
+
 - I am a tech enthusiast and software developer with a passion for coding.
 - I specialize in Java and I am always exploring new challenges. 🚀💻
 - I am currently learning C++ and SQL
